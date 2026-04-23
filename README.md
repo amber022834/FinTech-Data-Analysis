@@ -16,7 +16,7 @@
 <br>
 
 ### **3. 數據視覺化（Power BI）**
-> *[請在此處插入你的 SQL 截圖]*
+> *![MySQL 分析結果截圖](images/SQL-image.png)*
 > <br>
 > **SQL數據驗證**
 > <br>
